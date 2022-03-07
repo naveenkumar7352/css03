@@ -1,0 +1,125 @@
+body{
+    background-color: gray;
+
+}
+.container1{
+    color: rgb(146,46,146);
+    background-color: white;
+    border: 8px solid red;
+    text-align: center;
+    box-shadow: 8px 11px 16px blue;
+    border-radius: 27px;
+    width: 300px;
+    margin: auto;
+    text-shadow: #fc0 1px 0 10px;
+    margin-top: 10px;
+}
+.container2{
+    /* border:5px soloid green; */
+    height: 400px;
+}
+.container{
+    border: 3px solid red;
+    background-color: white;
+    color: rgb(146,46,146);
+    text-align: center;
+    width: 200px;
+    text-shadow: #fc0 1px 0 10px;
+    box-shadow: 9px 9px 8px;
+    display: inline-block;
+}
+#container3{
+    margin-left: 5px;
+    margin-top: 10px;
+}
+#container4{
+     float: right;
+     width: 322px;
+     margin-right: 20px;
+     margin-top: 10px;
+     margin-right: 50px;
+}
+#container5{
+    position: absolute;
+    top: 471px;
+    left: 28px;
+}
+#container6{
+    float: right;
+    position: absolute;
+    left: 1085px;
+    top: 482px;
+}
+div{
+    /* border: 2px solid red; */
+}
+.new{
+    background-color: greenyellow;
+    width: 440px;
+    border: 10px solid red;
+    border-radius: 20px;
+    position: fixed;
+    top: 80%;
+    left: 34%;
+    padding: 12px;
+    display: flex;
+    justify-content: space-evenly;
+    color: rgb(121, 22, 22);
+    font-style: italic;
+   
+}
+#offer{
+    padding-right: 10px;
+    text-align: center;
+    width: 200px;
+    font-weight: bolder;
+    font-size: 19px;
+}
+#discount{
+    padding-right: 10px;
+    text-align: center;
+    width: 120px;
+    font-weight: bold;
+}
+.special{
+    border: 4px solid pink;
+    border-radius: 15px;
+    background-color: green;
+    width: 840px;
+    text-align: center;
+    margin-left: 260px;
+    position: relative;
+    top: 197px;
+    height: 661px;
+}
+.special1{
+    background-color: antiquewhite;
+    font-style: italic;
+    line-height: 36px;
+    width: 387px;
+    margin-left: 19px;
+    margin-top: 43px;
+}
+#prem1{
+    padding-top: 14px;
+    font-size: 18px;
+}
+#prem2{
+    float: right;
+    position: relative;
+    bottom: 281px;
+    right: 29px;
+    HEIGHT: 236px;
+    font-size: 17px;
+}
+#small{
+    border: 2px solid gray;
+    position: absolute;
+    left: 2px;
+    top: 299px;
+    text-align: center;
+    width: 787px;
+    height: 216px;
+    background-color: antiquewhite;
+    font-size: 27px;
+}
